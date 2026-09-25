@@ -1,13 +1,13 @@
 {
-  "Main Island": { "blob": "blobs/Main Island.blob", "version": "V2.0" },
-  "Retro island": { "blob": "blobs/Retro island.blob", "version": "V2.0" },
-  "Holiday": { "blob": "blobs/Holiday.blob", "version": "V2.0" },
-  "pirate": { "blob": "blobs/pirate.blob", "version": "V2.0" },
-  "Spooktober 2021": { "blob": "blobs/Spooktober 2021.blob", "version": "V2.0" },
-  "Space": { "blob": "blobs/Space.blob", "version": "V2.0" },
-  "Bike Obby for Brainrots": { "blob": "blobs/Bike Obby for Brainrots.blob", "version": "V2.5" },
-  "Strongman Simulator": { "blob": "blobs/Strongman Simulator.blob", "version": "V1.6" },
-  "NLSPS": { "blob": "blobs/NLSPS.blob", "version": "V1.1" },
-  "Lift a Cube": { "blob": "blobs/Lift a Cube.blob", "version": "V1.1" },
-  "Clicker Simulator": { "blob": "blobs/Clicker Simulator.blob", "version": "V1.11" }
+  "Main Island": { "blob": "blobs/Main Island.blob", "version": "V2.1" },
+  "Retro island": { "blob": "blobs/Retro island.blob", "version": "V2.1" },
+  "Holiday": { "blob": "blobs/Holiday.blob", "version": "V2.1" },
+  "pirate": { "blob": "blobs/pirate.blob", "version": "V2.1" },
+  "Spooktober 2021": { "blob": "blobs/Spooktober 2021.blob", "version": "V2.1" },
+  "Space": { "blob": "blobs/Space.blob", "version": "V2.1" },
+  "Bike Obby for Brainrots": { "blob": "blobs/Bike Obby for Brainrots.blob", "version": "V2.6" },
+  "Strongman Simulator": { "blob": "blobs/Strongman Simulator.blob", "version": "V1.7" },
+  "NLSPS": { "blob": "blobs/NLSPS.blob", "version": "V1.2" },
+  "Lift a Cube": { "blob": "blobs/Lift a Cube.blob", "version": "V1.2" },
+  "Clicker Simulator": { "blob": "blobs/Clicker Simulator.blob", "version": "V1.12" }
 }
